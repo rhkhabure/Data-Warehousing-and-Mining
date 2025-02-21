@@ -1,2 +1,12 @@
 # Data-Warehousing-and-Mining
-This is a class group project to show our understanding of data mining techniques and its implimentation.
+## Problem statement
+
+## Objective
+## Vairable and data selection
+### Data source
+## Data processing and Exploration
+## Data Mining techniques
+
+# Implementation
+## Prerequisite
+
