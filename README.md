@@ -9,22 +9,22 @@ Use clustering techniques (e.g., K-means, Hierarchical clustering) to identify d
 ## Vairable and data selection
 The variables selected for analysis were specifically those that were present in both datasets and were deemed to hold significant relevance based on prior research
 
-Age (numeric)
-Job: type of job (categorical: "admin.", "unknown", "unemployed", "management", "housemaid", "entrepreneur", "student", "blue-collar", "self-employed", "retired", "technician", "Services") 
-Marital: marital status (categorical: "married", "divorced", "single"; note: "divorced" means divorced or widowed)
-Education (categorical: "unknown", "secondary", "primary", "tertiary")
-Default: has credit in default? (binary: "yes", "no")
-Balance: average yearly balance, in euros (numeric) 
-Housing: has a housing loan? (binary: "yes", "no")
-Loan: has a personal loan? (binary: "yes", "no")
+1. Age (numeric)
+2. Job: type of job (categorical: "admin.", "unknown", "unemployed", "management", "housemaid", "entrepreneur", "student", "blue-collar", "self-employed", "retired", "technician", "Services") 
+3. Marital: marital status (categorical: "married", "divorced", "single"; note: "divorced" means divorced or widowed)
+4. Education (categorical: "unknown", "secondary", "primary", "tertiary")
+5. Default: Is credit in default? (binary: "yes", "no")
+6. Balance: average yearly balance, in euros (numeric) 
+7. Housing: has a housing loan? (binary: "yes", "no")
+8. Loan: has a personal loan? (binary: "yes", "no")
  related to the last contact of the current campaign:
-Contact: contact communication type (categorical: "unknown", "telephone", "cellular") 
-Month: last contact month of the year (categorical: "Jan", "Feb", "Mar", ..., "Nov", "Dec")
-Duration: last contact duration, in seconds (numeric)
+9. Contact: contact communication type (categorical: "unknown", "telephone", "cellular") 
+10. Month: last contact month of the year (categorical: "Jan", "Feb", "Mar", ..., "Nov", "Dec")
+11. Duration: last contact duration, in seconds (numeric)
 other attributes:
-Campaign: number of contacts performed during this campaign and for this client (numeric, includes the last contact)
-Pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric, -1 means the client was not previously contacted)
-Previous: number of contacts performed before this campaign and for this client (numeric)
+12. Campaign: number of contacts performed during this campaign and for this client (numeric, includes the last contact)
+13. Pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric, -1 means the client was not previously contacted)
+14. Previous: number of contacts performed before this campaign and for this client (numeric)
 Poutcome: outcome of the previous marketing campaign (categorical: "unknown", "other", "failure", "success")
 
 ### Data source
