@@ -30,7 +30,15 @@ Poutcome: outcome of the previous marketing campaign (categorical: "unknown", "o
 ### Data source
 The data sets were sourced from Kaggle, a well-known provider of diverse datasets. The two selected data sets were carefully chosen for their similarities in structure, maintaining consistent formatting methods and being comparable in size, each containing a significant number of records.
 
-## Data processing and Exploration
+# Data Processing and Exploration
+## 4.1 Data cleaning
+Data cleaning was done on VS code data wrangler as its user user-friendly and provides all necessary data cleaning functions.
+Below are the data-cleaning techniques used:
+1. removal of duplicate rows
+2. dropping of columns that did appear in both data sets
+3. Standardizing rows data types
+
+
 ## Data Mining techniques
 
 # Implementation
