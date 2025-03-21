@@ -40,6 +40,9 @@ Below are the data-cleaning techniques used:
 
 
 ## Data Mining techniques
+Discretization was done on the age, campaign, and Pdays columns.
+For the columns, k means discretization was used as it automatically adapts to the dataset data and was the one used in previous studies yielding the best results.
+The minimum support chosen was  0.5 for confidence was 0.7.
 
 # Implementation
 ## Prerequisite
