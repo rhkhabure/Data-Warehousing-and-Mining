@@ -4,7 +4,7 @@
 How can the bank segment its customers based on their demographics, financial behaviour, and marketing interactions to improve targeted marketing strategies?
 
 ## Objective
-Used clustering techniques (e.g., K-means, Hierarchical clustering) to identify distinct customer segments and tailor marketing campaigns to each segment to maximize engagement and conversion rates.
+Utilized advanced clustering techniques, such as K-means and Hierarchical clustering, to identify distinct customer segments within the banking industry.
 
 ## Variable and data selection
 The variables selected for analysis were specifically those that were present in both datasets and were deemed to hold significant relevance based on prior research
@@ -31,7 +31,7 @@ Poutcome: outcome of the previous marketing campaign (categorical: "unknown", "o
 The data sets were sourced from Kaggle, a well-known provider of diverse datasets. The two selected data sets were carefully chosen for their similarities in structure, consistent formatting methods, and comparable size, each containing a significant number of records.
 
 # Data Processing and Exploration
-## 4.1 Data cleaning
+##  Data cleaning
 Data cleaning was done on VS code data wrangler as its user user-friendly and provides all necessary data cleaning functions.
 Below are the data-cleaning techniques used:
 1. Remove duplicate rows
@@ -56,3 +56,11 @@ libraries to import:
 2. Sklearn
 3. Pycaret
 4. Apyori
+
+
+## Screenshots
+
+## Contributing
+We welcome contributions! Please fork the repository, make your changes, and submit a pull request.
+
+
