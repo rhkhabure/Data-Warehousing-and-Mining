@@ -57,6 +57,8 @@ libraries to import:
 3. Pycaret
 4. Apyori
 
+![Screenshot](Screanshot.png)
+
 
 ## Screenshots
 
