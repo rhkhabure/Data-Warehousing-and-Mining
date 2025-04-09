@@ -57,7 +57,7 @@ libraries to import:
 3. Pycaret
 4. Apyori
 
-![Screenshot](Cleaned_data_sets/testshot.png)
+![Image](https://github.com/user-attachments/assets/fd792a30-19e2-4907-ba59-6fb8dc8723bd)
 
 
 ## Screenshots
